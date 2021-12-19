@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MohamadNasser7
-- 👀 I’m interested in AI and ML 
-- 🌱 I’m currently learning CAP/AI - AL-NAJAH
 - 📫 How to reach me https://www.facebook.com/mohamadhaseee
 
 <!---
